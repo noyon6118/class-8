@@ -1,0 +1,45 @@
+#p1{
+     text-align: center;
+     font-size: 30px;
+     font-weight: bold;
+     margin-bottom: 10px;
+}
+
+#div1{
+    background-color: rgb(253, 253, 253);
+  width: 500px;
+  
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 20px;
+  padding-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#p2{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 0%;
+}
+
+#search{
+
+height: 41px;
+width: 368px;
+border-radius: 30px;
+border: 1px solid rgb(77, 61, 61);
+padding-left: 10px;
+}
+
+
+
+#submit{
+    height: 41px;
+    width: 70px;
+    background-color: rgb(224, 216, 205);
+    margin-left: 10px;
+    border-radius: 50px;
+    border: 1px solid  rgb(224, 216, 205);
+}
